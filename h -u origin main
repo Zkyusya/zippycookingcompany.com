@@ -1,0 +1,57 @@
+[33mcommit 209798fe8fd6666c82ef2f5936a7296b4405c14a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mrelease[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 9817565 3907571
+Author: Zkyusya <166985812+Zkyusya@users.noreply.github.com>
+Date:   Sun Apr 14 12:18:42 2024 +0300
+
+    Merge pull request #2 from Zkyusya/Includephilinessugar
+    
+    Update index.htm - we should include philipines as one of the sugar producing countries
+
+[33mcommit 3907571af8850bf64315455caf8cb067ffd0bfbc[m[33m ([m[1;31morigin/Includephilinessugar[m[33m)[m
+Author: Zkyusya <166985812+Zkyusya@users.noreply.github.com>
+Date:   Sun Apr 14 12:15:03 2024 +0300
+
+    Update index.htm
+
+[33mcommit 9817565cbbae9e1cab3861f59f5c6695d0e22e96[m
+Merge: ecbd9a6 922bf66
+Author: Zipporah Kyusya <zippykyusya@gmail.com>
+Date:   Sat Apr 13 21:51:12 2024 +0300
+
+    update text on index
+
+[33mcommit ecbd9a65e0dcdf2fc2bf87e9e6b636accd09ba73[m
+Author: Zipporah Kyusya <zippykyusya@gmail.com>
+Date:   Sat Apr 13 21:39:53 2024 +0300
+
+    update index text
+
+[33mcommit 922bf66eb574830d8334b113ae53887d8e56c820[m[33m ([m[1;31morigin/UpdateText[m[33m, [m[1;32mUpdateText[m[33m)[m
+Author: Zipporah Kyusya <zippykyusya@gmail.com>
+Date:   Sat Apr 13 21:38:16 2024 +0300
+
+    update index text
+
+[33mcommit 137a83fda7618fc8ecba82c99ca4312e29b9395e[m
+Author: Zipporah Kyusya <zippykyusya@gmail.com>
+Date:   Sat Apr 13 21:33:31 2024 +0300
+
+    updated temp for baking instructions
+
+[33mcommit 085640d948d247c1b09886634e930f068159a36c[m
+Author: Zipporah Kyusya <zippykyusya@gmail.com>
+Date:   Sat Apr 13 21:18:16 2024 +0300
+
+    changed file name to Primary Logo.png
+
+[33mcommit f955d6273eee8ba2cd4f963846c9246249d1cc4a[m
+Author: Zipporah Kyusya <zippykyusya@gmail.com>
+Date:   Sat Apr 13 21:14:41 2024 +0300
+
+    updated text to free range
+
+[33mcommit 7dc128a144d6d457f538f6b3d20a43db7abcdab8[m
+Author: Zipporah Kyusya <zippykyusya@gmail.com>
+Date:   Sat Apr 13 20:27:47 2024 +0300
+
+    first commit - commiting all files to the repository
